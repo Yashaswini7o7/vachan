@@ -9,7 +9,7 @@
 4. **Voice-sealed receipt** with a SHA-256 hash of the transcript and terms, so the deal can be proved later.
 
 ## Live demo
-[https://xxxx.gradio.live  ← replace with your link](https://9c78b1ab3b80d0b927.gradio.live)
+[https://9c78b1ab3b80d0b927.gradio.live]
 
 ## Run it
 1. Open Google Colab and add a secret named `SARVAM_API_KEY` (Notebook access on).
